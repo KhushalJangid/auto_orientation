@@ -1,4 +1,4 @@
-package de.bytepark.autoorientation;
+package com.khushaljangid.auto_orientation_plus;
 
 import android.app.Activity;
 import android.content.pm.ActivityInfo;

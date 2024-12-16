@@ -1,4 +1,4 @@
-group 'de.bytepark.autoorientation'
+group 'com.khushaljangid.auto_orientation_plus'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -24,7 +24,7 @@ apply plugin: 'com.android.library'
 android {
     // Condition for namespace compatibility in AGP 8
     if (project.android.hasProperty("namespace")) {
-        namespace 'de.bytepark.autoorientation'
+        namespace 'com.khushaljangid.auto_orientation_plus'
     }
     compileSdkVersion 31
 
